@@ -1,0 +1,15 @@
+1. Which brand has the most products in the store? Write a query to display all the brands and the quantity of products of each brand.
+2. Which product is the most ordered? Write a query to display the name of the product and quantity.
+3. Which product earned the most revenue? Write a query to display the name of the top 5 products that earned the most revenues.
+4. In which product category were the most units sold?
+5. Calculate the average bike price for each model year.
+6. How many staff are active in all stores?
+7. Who is the top manager?
+8. Who are the managers in each store? Write a query to show their details.
+9. Write a query to show the list of employees in each store.
+10. Which state has the most customers? Write a query to return the number of customers from each state.
+11. Which customers have made the highest number of orders? Write a query to show customer's names with their numbers of orders.
+12. Which is the latest order by a customer?
+13. Which orders are late-shipped?
+14. Which store has the most late-shipped orders? Write a query to return each store ID, store name, state, and number of late orders.
+15. Which store has the highest revenue? Write a query to return each store ID, store name, state, and revenue.
